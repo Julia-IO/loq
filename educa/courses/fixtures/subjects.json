@@ -1,0 +1,42 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 1,
+  "fields": {
+    "title": "Localisation Essentials",
+    "slug": "localisation-essentials"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 2,
+  "fields": {
+    "title": "Assignments Workflow",
+    "slug": "assignments-workflow"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 3,
+  "fields": {
+    "title": "Writing Test Reports",
+    "slug": "writing-test-reports"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 4,
+  "fields": {
+    "title": "What is a bug",
+    "slug": "what-bug"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 5,
+  "fields": {
+    "title": "Keywords",
+    "slug": "keywords"
+  }
+}
+]
